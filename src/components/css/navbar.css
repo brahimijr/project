@@ -1,0 +1,9 @@
+.signup{
+    border-radius: 18px;
+    margin-left: 1.5rem;
+    border: none;
+}
+
+.signup a{
+    font-size: 17px;
+}
